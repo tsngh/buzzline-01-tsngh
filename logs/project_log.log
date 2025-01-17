@@ -269,3 +269,74 @@
 2025-01-17 15:16:53.407 | INFO     | __main__:main:114 - I just smile a sport! It was small.
 2025-01-17 15:16:56.408 | INFO     | __main__:main:114 - I just think a season! It was fluffy.
 2025-01-17 15:16:59.409 | INFO     | __main__:main:114 - I just eat a theatre! It was photogenic.
+2025-01-17 15:29:18.155 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-17 15:29:18.156 | INFO     | __main__:main:106 - START producer...
+2025-01-17 15:29:18.156 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-01-17 15:29:18.158 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-01-17 15:29:18.158 | INFO     | __main__:main:114 - I just stayed at a toy store! It was tough.
+2025-01-17 15:29:21.159 | INFO     | __main__:main:114 - I just enjoyed a stadium! It was memorable.
+2025-01-17 15:29:24.160 | INFO     | __main__:main:114 - I just toured a country! It was mind boggling.
+2025-01-17 15:29:27.161 | INFO     | __main__:main:114 - I just thought of a museum! It was tough.
+2025-01-17 15:29:30.163 | INFO     | __main__:main:114 - I just toured a museum! It was tough.
+2025-01-17 15:29:33.165 | INFO     | __main__:main:114 - I just enjoyed a toy store! It was mind boggling.
+2025-01-17 15:29:36.166 | INFO     | __main__:main:114 - I just thought of a stadium! It was mind boggling.
+2025-01-17 15:29:39.167 | INFO     | __main__:main:114 - I just thought of a stadium! It was tough.
+2025-01-17 15:29:42.168 | INFO     | __main__:main:114 - I just enjoyed a restaurant! It was tough.
+2025-01-17 15:29:45.169 | INFO     | __main__:main:114 - I just thought of a museum! It was tough.
+2025-01-17 15:29:48.170 | INFO     | __main__:main:114 - I just visited a restaurant! It was memorable.
+2025-01-17 15:29:51.171 | INFO     | __main__:main:114 - I just enjoyed a stadium! It was amazing.
+2025-01-17 15:29:54.173 | INFO     | __main__:main:114 - I just stayed at a country! It was memorable.
+2025-01-17 15:29:57.174 | INFO     | __main__:main:114 - I just visited a museum! It was memorable.
+2025-01-17 15:30:00.176 | INFO     | __main__:main:114 - I just thought of a country! It was photogenic.
+2025-01-17 15:30:03.179 | INFO     | __main__:main:114 - I just toured a restaurant! It was amazing.
+2025-01-17 15:30:06.181 | INFO     | __main__:main:114 - I just enjoyed a country! It was photogenic.
+2025-01-17 15:30:09.182 | INFO     | __main__:main:114 - I just toured a museum! It was amazing.
+2025-01-17 15:30:12.185 | INFO     | __main__:main:114 - I just enjoyed a museum! It was memorable.
+2025-01-17 15:30:15.188 | INFO     | __main__:main:114 - I just thought of a stadium! It was amazing.
+2025-01-17 15:30:18.190 | INFO     | __main__:main:114 - I just enjoyed a country! It was tough.
+2025-01-17 15:30:21.193 | INFO     | __main__:main:114 - I just toured a toy store! It was tough.
+2025-01-17 15:30:24.196 | INFO     | __main__:main:114 - I just toured a museum! It was photogenic.
+2025-01-17 15:30:27.198 | INFO     | __main__:main:114 - I just stayed at a restaurant! It was tough.
+2025-01-17 15:30:30.201 | INFO     | __main__:main:114 - I just stayed at a country! It was amazing.
+2025-01-17 15:30:33.204 | INFO     | __main__:main:114 - I just toured a stadium! It was amazing.
+2025-01-17 15:30:36.208 | INFO     | __main__:main:114 - I just thought of a toy store! It was mind boggling.
+2025-01-17 15:30:39.211 | INFO     | __main__:main:114 - I just thought of a stadium! It was amazing.
+2025-01-17 15:30:42.213 | INFO     | __main__:main:114 - I just enjoyed a stadium! It was photogenic.
+2025-01-17 15:30:45.216 | INFO     | __main__:main:114 - I just enjoyed a stadium! It was photogenic.
+2025-01-17 15:30:48.217 | INFO     | __main__:main:114 - I just visited a stadium! It was mind boggling.
+2025-01-17 15:30:51.218 | INFO     | __main__:main:114 - I just toured a stadium! It was photogenic.
+2025-01-17 15:30:54.220 | INFO     | __main__:main:114 - I just toured a stadium! It was tough.
+2025-01-17 15:30:57.221 | INFO     | __main__:main:114 - I just stayed at a stadium! It was memorable.
+2025-01-17 15:31:00.223 | INFO     | __main__:main:114 - I just stayed at a stadium! It was photogenic.
+2025-01-17 15:31:03.225 | INFO     | __main__:main:114 - I just stayed at a restaurant! It was amazing.
+2025-01-17 15:31:06.226 | INFO     | __main__:main:114 - I just visited a restaurant! It was amazing.
+2025-01-17 15:31:09.113 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-17 15:31:09.113 | INFO     | __main__:main:68 - START...
+2025-01-17 15:31:09.113 | INFO     | __main__:main:74 - Reading file located at logs\project_log.log.
+2025-01-17 15:31:09.227 | INFO     | __main__:main:114 - I just visited a toy store! It was tough.
+2025-01-17 15:31:12.228 | INFO     | __main__:main:114 - I just toured a restaurant! It was amazing.
+2025-01-17 15:31:15.229 | INFO     | __main__:main:114 - I just visited a stadium! It was memorable.
+2025-01-17 15:31:18.230 | INFO     | __main__:main:114 - I just toured a restaurant! It was mind boggling.
+2025-01-17 15:31:21.231 | INFO     | __main__:main:114 - I just toured a country! It was photogenic.
+2025-01-17 15:31:24.232 | INFO     | __main__:main:114 - I just stayed at a stadium! It was mind boggling.
+2025-01-17 15:31:27.233 | INFO     | __main__:main:114 - I just visited a museum! It was amazing.
+2025-01-17 15:31:30.236 | INFO     | __main__:main:114 - I just enjoyed a country! It was mind boggling.
+2025-01-17 15:31:33.238 | INFO     | __main__:main:114 - I just toured a toy store! It was photogenic.
+2025-01-17 15:31:36.240 | INFO     | __main__:main:114 - I just thought of a stadium! It was photogenic.
+2025-01-17 15:31:39.241 | INFO     | __main__:main:114 - I just visited a stadium! It was photogenic.
+2025-01-17 15:31:42.243 | INFO     | __main__:main:114 - I just thought of a toy store! It was memorable.
+2025-01-17 15:31:45.244 | INFO     | __main__:main:114 - I just enjoyed a toy store! It was amazing.
+2025-01-17 15:31:48.247 | INFO     | __main__:main:114 - I just toured a museum! It was tough.
+2025-01-17 15:31:51.251 | INFO     | __main__:main:114 - I just stayed at a country! It was memorable.
+2025-01-17 15:31:54.254 | INFO     | __main__:main:114 - I just enjoyed a toy store! It was memorable.
+2025-01-17 15:31:57.257 | INFO     | __main__:main:114 - I just stayed at a restaurant! It was amazing.
+2025-01-17 15:32:00.260 | INFO     | __main__:main:114 - I just toured a country! It was amazing.
+2025-01-17 15:32:03.261 | INFO     | __main__:main:114 - I just enjoyed a country! It was memorable.
+2025-01-17 15:32:06.263 | INFO     | __main__:main:114 - I just visited a stadium! It was photogenic.
+2025-01-17 15:32:09.265 | INFO     | __main__:main:114 - I just toured a stadium! It was photogenic.
+2025-01-17 15:32:12.267 | INFO     | __main__:main:114 - I just thought of a toy store! It was photogenic.
+2025-01-17 15:32:15.269 | INFO     | __main__:main:114 - I just stayed at a restaurant! It was photogenic.
+2025-01-17 15:32:18.270 | INFO     | __main__:main:114 - I just visited a toy store! It was photogenic.
+2025-01-17 15:32:21.273 | INFO     | __main__:main:114 - I just stayed at a restaurant! It was photogenic.
+2025-01-17 15:32:24.278 | INFO     | __main__:main:114 - I just visited a country! It was memorable.
+2025-01-17 15:32:27.279 | INFO     | __main__:main:114 - I just toured a restaurant! It was mind boggling.

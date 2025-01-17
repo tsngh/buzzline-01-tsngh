@@ -1,5 +1,5 @@
 """
-basic_generator_case.py
+basic_generator_tsngh.py
 
 Generate some streaming buzz messages. 
 """
