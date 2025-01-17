@@ -30,7 +30,7 @@ You are encouraged to install both and practice multiple versions.
 If space is an issue, we only need 3.11 in this course. 
 For more information, See [PYTHON-VERSIONS.md](docs/PYTHON-VERSIONS.md).
 
-## Task 2. Copy This Example Project & Change `case` to `yourname` (customized)
+## Task 2. Copy This Example Project & Change `tsngh` to `yourname` (customized)
 
 Once the tools are installed, copy/fork this project into your GitHub account
 and create your own version of this project to run and experiment with. 
@@ -67,13 +67,13 @@ Windows PowerShell:
 
 ```shell
 .venv\Scripts\activate
-py -m producers.basic_producer_case
+py -m producers.basic_producer_tsngh
 ```
 
 Mac/Linux:
 ```zsh
 source .venv/bin/activate
-python3 -m producers.basic_producer_case
+python3 -m producers.basic_producer_tsngh
 ```
 
 ## Task 5. Monitor an Active Log File (Terminal 2)
@@ -87,13 +87,13 @@ Use the commands below to activate .venv, and run the file as a module.
 Windows:
 ```shell
 .venv\Scripts\activate
-py -m consumers.basic_consumer_case.py
+py -m consumers.basic_consumer_tsngh.py
 ```
 
 Mac/Linux:
 ```zsh
 source .venv/bin/activate
-python3 -m consumers.basic_consumer_case.py
+python3 -m consumers.basic_consumer_tsngh.py
 ```
 
 ## Save Space
